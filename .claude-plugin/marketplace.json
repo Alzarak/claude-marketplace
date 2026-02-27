@@ -11,8 +11,8 @@
     {
       "name": "copilot-declarative-agent",
       "source": {
-        "source": "github",
-        "repo": "Alzarak/copilot-declarative-agent"
+        "source": "url",
+        "url": "https://github.com/Alzarak/copilot-declarative-agent.git"
       },
       "description": "Create, validate, and manage Microsoft 365 Copilot Declarative Agents. Comprehensive toolkit with scaffolding, validation, instruction optimization, and schema management.",
       "version": "1.0.0",
