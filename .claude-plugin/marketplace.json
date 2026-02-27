@@ -1,0 +1,23 @@
+{
+  "name": "alzarak-plugins",
+  "owner": {
+    "name": "Alzarak",
+    "email": "lanorakg@gmail.com"
+  },
+  "metadata": {
+    "description": "Custom Claude Code plugins by Alzarak"
+  },
+  "plugins": [
+    {
+      "name": "copilot-declarative-agent",
+      "source": "./copilot-declarative-agent",
+      "description": "Create, validate, and manage Microsoft 365 Copilot Declarative Agents. Comprehensive toolkit with scaffolding, validation, instruction optimization, and schema management.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Alzarak"
+      },
+      "category": "productivity",
+      "tags": ["microsoft-365", "copilot", "declarative-agent", "teams"]
+    }
+  ]
+}
