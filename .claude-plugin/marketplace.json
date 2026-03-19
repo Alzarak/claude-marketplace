@@ -21,6 +21,20 @@
       },
       "category": "productivity",
       "tags": ["microsoft-365", "copilot", "declarative-agent", "teams"]
+    },
+    {
+      "name": "nsight-scripter",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Alzarak/nable-nsight-scripter.git"
+      },
+      "description": "Create, edit, read, and manage N-Able N-Sight RMM Automation Manager (.amp) policy files and PowerShell scripts for N-Sight Script Manager.",
+      "version": "1.0.0",
+      "author": {
+        "name": "DatoTech"
+      },
+      "category": "devops",
+      "tags": ["n-sight", "n-able", "rmm", "automation-manager", "powershell", "amp"]
     }
   ]
 }
