@@ -43,7 +43,7 @@
         "url": "https://github.com/Alzarak/trading-bot.git",
         "ref": "v1.0"
       },
-      "description": "Autonomous stock day trading bot for Alpaca Markets. Provides /initialize wizard, /build script generator, and /run trading loop with Claude-powered analysis.",
+      "description": "Autonomous stock day trading bot for Alpaca Markets. Interactive setup wizard, script generator, and Claude-powered trading loop.",
       "version": "1.0.0",
       "author": {
         "name": "Trading Bot"
